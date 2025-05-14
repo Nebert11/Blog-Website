@@ -470,6 +470,7 @@ section{
 
 /* Contact section */
 .contact{
+    margin-top: 100px;
     background: url(images/contact-bg.jpg);
     background-size: cover;
     background-position: center;
